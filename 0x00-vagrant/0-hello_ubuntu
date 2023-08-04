@@ -1,0 +1,2 @@
+echo "The command 'uname' without any option prints: Linux" > 0-hello_ubuntu
+
